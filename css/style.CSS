@@ -1,0 +1,51 @@
+.navbar-inverse {
+    background-color: #1a1449;
+    font-size:11px;
+    }
+body{
+    background: url('../img/ikan.jpg') no-repeat scroll;
+    background-size: 100% 100%;
+    min-height: 700px  
+    }
+.jumbotron {
+	background-color: transparent;
+	background-size: cover;
+	text-shadow: black 0.5em 0.5em 0.5em; 
+	color: #0d0d2c;
+}
+.thumbnail {
+	margin-left: 20px;
+	margin-right: 60px;
+	height: 400px;
+}
+.img-circle {
+	width: 300px;
+	height: 300px;
+}
+ #Simbol {
+ 	font-weight: bold;
+	font-size: 40px;
+	color: #ff7e00;
+	margin-right: 10px;
+ }
+.slidenya {
+	margin: 0 auto;
+}
+.contact {
+	min-height: 600px;
+}
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
+}
+ 
+.video-container video, .video-container object, .video-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
